@@ -1,0 +1,45 @@
+
+body {
+  background-image: url('matrix.jpg');
+
+}
+#introduction {
+  padding-top: 2px;
+  height: 250px;
+  background-color: black;
+}
+#introduction p {
+  margin: 0px;
+  color: white;
+  font-size: 14px;
+}
+#hobbies {
+  color: white;
+  height: 250px;
+  background-color: black;
+  margin-top: 50px;
+  /*background-color: green;*/
+}
+#stack {
+  color: white;
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-top: 25px;
+  height: 300px;
+  background-color: black;
+  /*background-color: blue;*/
+}
+#reference {
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  height: 150px;
+  background-color: black;
+  /*background-color: purple;*/
+}
+#helloworld {
+  margin-top: 0px;
+  padding-top: 0px;
+  height: 50%;
+  width: 100%;
+}
